@@ -1,6 +1,6 @@
 <template>
   <div class="mdui-container">
-    Books
+    <h1>Books</h1>
     <div class="mdui-drawer">
     </div>
   </div>
@@ -8,7 +8,7 @@
 
 <script>
   export default {
-    name: 'test',
+    name: 'Books',
   }
 </script>
 

@@ -27,6 +27,7 @@ export default {
 
 <style scoped>
 .bottomNavColor{
+  z-index: 99;
   width: 100%;
   position: fixed;
   bottom: 0;

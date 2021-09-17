@@ -10,14 +10,13 @@
           </div>
         </div>
         <h1 class="doc-title mdui-text-color-theme name">高旭生</h1></div>
-
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'test',
+  name: 'About',
 }
 </script>
 
@@ -42,9 +41,9 @@ export default {
   z-index: 1;
 }
 .bg-img {
-  height: 680px;
+  height: 720px;
   background-size: 100%;
-  background: url(../assets/About.jpg) no-repeat top;
+  background: url(../assets/About-2.jpg) no-repeat 34%;
 }
 .name{
   position: relative;
@@ -55,8 +54,8 @@ export default {
 .Bg-Mask{
   position: fixed;
   z-index: 1;
-  height: 680px;
+  height: 100%;
   width: 100%;
-  background-color: rgba(252, 252, 252,0.6);
+  background-color: rgba(252, 252, 252,0.4);
 }
 </style>
