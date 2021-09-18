@@ -43,7 +43,7 @@ export default {
 .bg-img {
   height: 720px;
   background-size: 100%;
-  background: url(../assets/About-2.jpg) no-repeat 34%;
+  background: url(../assets/About-2.jpg) no-repeat 32%;
 }
 .name{
   position: relative;

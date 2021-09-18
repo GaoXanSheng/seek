@@ -21,7 +21,7 @@ export default {
   padding: 0;
 }
 #app{
-  position: fixed;
+  position: absolute;
   width: 100%;
   height: 100%;
   background-color: #F7F9FC;
